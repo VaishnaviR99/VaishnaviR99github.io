@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VaishnaviR99github.io/static/css/main.69cccaef.css",
-    "main.js": "/VaishnaviR99github.io/static/js/main.7f6e771c.js",
+    "main.css": "/VaishnaviR99github.io/static/css/main.56cbc8f1.css",
+    "main.js": "/VaishnaviR99github.io/static/js/main.a938a1f0.js",
     "index.html": "/VaishnaviR99github.io/index.html",
-    "main.69cccaef.css.map": "/VaishnaviR99github.io/static/css/main.69cccaef.css.map",
-    "main.7f6e771c.js.map": "/VaishnaviR99github.io/static/js/main.7f6e771c.js.map"
+    "main.56cbc8f1.css.map": "/VaishnaviR99github.io/static/css/main.56cbc8f1.css.map",
+    "main.a938a1f0.js.map": "/VaishnaviR99github.io/static/js/main.a938a1f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.69cccaef.css",
-    "static/js/main.7f6e771c.js"
+    "static/css/main.56cbc8f1.css",
+    "static/js/main.a938a1f0.js"
   ]
 }
